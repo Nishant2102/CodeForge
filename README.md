@@ -1,6 +1,6 @@
-# 🛠️ Codeforge
+# 🛠️ CodeForge
 
-**Codeforge** is an AI-powered software agent that transforms natural language requests into complete, working projects. Built on [LangGraph](https://github.com/langchain-ai/langgraph), it operates like a multi-agent development team, tackling complex tasks by using real-world developer workflows to create projects file by file.
+**CodeForge** is an AI-powered software agent that transforms natural language requests into complete, working projects. Built on [LangGraph](https://github.com/langchain-ai/langgraph), it operates like a multi-agent development team, tackling complex tasks by using real-world developer workflows to create projects file by file.
 
 ---
 
@@ -14,7 +14,7 @@
 
 ## 🏗️ Architecture
 
-Codeforge's core power comes from its three specialized agents, each handling a critical phase of the development lifecycle:
+CodeForge's core power comes from its three specialized agents, each handling a critical phase of the development lifecycle:
 
 * **Planner Agent**
     * Analyzes your request and generates a detailed, high-level project plan.
@@ -36,8 +36,8 @@ Codeforge's core power comes from its three specialized agents, each handling a 
 ### ⚙️ Installation and Setup
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-repo-name/codeforge.git](https://github.com/your-repo-name/codeforge.git)
-    cd codeforge
+    git clone https://github.com/Nishant2102/CodeForge.git
+    cd CodeForge
     ```
 2.  **Create and activate your virtual environment:**
     ```bash
